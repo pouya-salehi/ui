@@ -9,7 +9,7 @@
   font-family: 'Peyda';
   src: url('/fonts/peyda.woff2') format('woff2'),
     url('/fonts/peyda.woff') format('woff');
-  font-weight: 400;
+  font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
@@ -32,6 +32,7 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: 'Peyda', system-ui, -apple-system, sans-serif;
+  font-weight: 200;
 }
 svg{
   width: 1rem;
