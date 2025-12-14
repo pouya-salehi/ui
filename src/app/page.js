@@ -1,6 +1,6 @@
-import LuxuryWatchBanner2026 from "@/components/Banner"
+import HomePage from "@/components/HomePage"
 function page() {
-  return <LuxuryWatchBanner2026 />
+  return <HomePage />
 }
 
 export default page
